@@ -5,6 +5,12 @@
 	font-family: sans-serif;
 }
 
+a, a:hover, a:visited{
+	text-decoration: underline;
+	cursor: pointer;
+	color: inherit;
+}
+
 body{
 	background-color: #ADD8E6 /* Light Blue */;
 }

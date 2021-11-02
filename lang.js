@@ -1,7 +1,7 @@
 /* GENERAL TEXT */
 const str_lang_switch = {
-	en: "./img/fr.png",
-	fr: "./img/en.png",
+	en: "./img/en.png",
+	fr: "./img/fr.png",
 }
 const str_lang_switch_alt = {
 	en: "French country flag",
@@ -182,6 +182,6 @@ const str_infos_title = {
 	fr: "Informations"
 }
 const str_infos = {
-	en: "Work in progress...",
-	fr: "Bonjour et bienvenue sur la Checklist interactive Animal Crossing!<br><br>Il y a un paquet de listes disponibles sur internet, mais aucune n'est interactive et encore moins automatique! Il était temps d'intervenir!<br><br>Tout ce que vous avez à faire, c'est noter le nom de vos habitants et, chaque jour, cocher les activités terminées sur votre ile! Le reste est automatique!<br><br>Petit point technique:<br>- La liste se réinitialise chaque jour à 5h du matin grâce à un cookie.<br>- Toutes les informations (langue, noms et liste) sont stockées dans votre navigateur.<br>- Le serveur ne conserve AUCUNE donnée.<br><br>Si vous avez des suggestions ou un bug à signaler, n'hésitez pas à le faire sur le <a href=\"\">GitHub</a> du projet!<br><br>Bon jeu à tous!<br><br>P.S. Il est possible que des modifications soient apportées à cette liste après à la sortie du DLC \"Happy Home Paradise\"!"
+	en: "Hello and welcome on the Animal Crossing Interactive Checklist!<br><br>There's a lot of lists available on internet, but none of them are interactive or automated, it was time to do something!<br><br>All you have to do now is write the names of your villagers and, every day, check the list when you've done something! Everything else is automated!<br><br>Quick technical note:<br>- The list is reset everyday at 5am with the help of a cookie.<br>- Every information (language, names and list) is stored in your browser.<br>- NOTHING is stored on the web server.<br><br>If you have a suggestion or an issue, please report it on <a href=\"https://github.com/Dkeagle/ACCL\" target=\"_blank\">GitHub</a>!<br>Have a good game!<br><br>P.S. The list might be updated after the release of the \"Happy Home Paradise\" DLC!",
+	fr: "Bonjour et bienvenue sur la Checklist interactive Animal Crossing!<br><br>Il y a un paquet de listes disponibles sur internet, mais aucune n'est interactive et encore moins automatique! Il était temps d'intervenir!<br><br>Tout ce que vous avez à faire, c'est noter le nom de vos habitants et, chaque jour, cocher les activités terminées sur votre ile! Le reste est automatique!<br><br>Petit point technique:<br>- La liste se réinitialise chaque jour à 5h du matin grâce à un cookie.<br>- Toutes les informations (langue, noms et liste) sont stockées dans votre navigateur.<br>- Le serveur ne conserve AUCUNE donnée.<br><br>Si vous avez des suggestions ou un bug à signaler, n'hésitez pas à le faire sur le <a href=\"https://github.com/Dkeagle/ACCL\" target=\"_blank\">GitHub</a> du projet!<br><br>Bon jeu à tous!<br><br>P.S. Il est possible que des modifications soient apportées à cette liste après à la sortie du DLC \"Happy Home Paradise\"!"
 }
