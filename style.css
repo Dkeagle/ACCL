@@ -163,6 +163,12 @@ body{
 	cursor: help;
 }
 
+#copr{
+	display: block;
+	margin: 50px 50px 0 0;
+	text-align: right;
+}
+
 /* MEDIA QUERIES */
 @media only screen and (max-width: 768px){
 	/* HEADER */
